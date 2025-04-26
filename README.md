@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fi786
 - 👀 I’m interested in machine learning,deep learning and data science
-- 🌱 I’m currently learning data science as part of my Computing course at Universtiy Of Hertfordshire
+- 🌱 I’m currently doing A Natural Langauge Processing based project for my Msc Thesis at Queen Mary University Of London
 - 💞️ I’m looking to collaborate on some Data Analysis and Machine Learning Projects over the summer
 - 📫 How to reach me: fahadmiqbal123@gmail.com
 
