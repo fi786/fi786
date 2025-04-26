@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This network was created in GeNIe Academic, which can be used for academic teaching and research purposes only -->
+<smile version="1.0" id="Bayesys" numsamples="1025" discsamples="1025">
+	<nodes>
+		<cpt id="chest_pain_type">
+			<state id="a_Typical_angina" />
+			<state id="a_Atypical_angina" />
+			<state id="a_Non_anginal_pain" />
+			<state id="a_Asymptomatic" />
+			<probabilities>0.4848780487804878 0.1629268292682927 0.2770731707317073 0.07512195121951219</probabilities>
+		</cpt>
+		<cpt id="exercise_induced_angina">
+			<state id="a_No" />
+			<state id="a_Yes" />
+			<parents>chest_pain_type</parents>
+			<probabilities>0.4305835010060362 0.5694164989939637 0.9281437125748503 0.0718562874251497 0.8697183098591549 0.1302816901408451 0.8311688311688312 0.1688311688311688</probabilities>
+		</cpt>
+		<cpt id="target">
+			<state id="a_0" />
+			<state id="a_1" />
+			<parents>chest_pain_type exercise_induced_angina</parents>
+			<probabilities>0.5700934579439252 0.4299065420560748 0.8939929328621908 0.1060070671378092 0.1935483870967742 0.8064516129032258 0.25 0.75 0.2064777327935223 0.7935222672064778 0.3783783783783784 0.6216216216216216 0.34375 0.65625 0.3076923076923077 0.6923076923076923</probabilities>
+		</cpt>
+		<cpt id="oldpeak">
+			<state id="a_low" />
+			<state id="a_moderate" />
+			<state id="a_mild" />
+			<state id="a_severe" />
+			<parents>target</parents>
+			<probabilities>0.4028056112224449 0.2845691382765531 0.2845691382765531 0.0280561122244489 0.7566539923954373 0.03612167300380228 0.2015209125475285 0.005703422053231939</probabilities>
+		</cpt>
+		<cpt id="slope">
+			<state id="a_Downsloping" />
+			<state id="a_Upsloping" />
+			<state id="a_Flat" />
+			<parents>oldpeak target</parents>
+			<probabilities>0.5074626865671642 0.01990049751243781 0.472636815920398 0.7336683417085427 0.02512562814070352 0.2412060301507538 0.05633802816901409 0.1901408450704225 0.7535211267605634 0.2105263157894737 0.4736842105263158 0.3157894736842105 0.1338028169014084 0.02816901408450704 0.8380281690140845 0.4150943396226415 0.05660377358490566 0.5283018867924528 0 0.7857142857142857 0.2142857142857143 0 1 0</probabilities>
+		</cpt>
+		<cpt id="thalassemia">
+			<state id="a_Reversable_Defect" />
+			<state id="a_Fixed_Defect" />
+			<state id="a_Normal" />
+			<state id="a_No" />
+			<parents>target</parents>
+			<probabilities>0.6412825651302605 0.2645290581162325 0.08617234468937876 0.008016032064128256 0.1711026615969582 0.7832699619771863 0.03992395437262358 0.005703422053231939</probabilities>
+		</cpt>
+		<cpt id="sex">
+			<state id="a_Male" />
+			<state id="a_Female" />
+			<parents>thalassemia target</parents>
+			<probabilities>0.853125 0.146875 0.9333333333333333 0.06666666666666667 0.7348484848484849 0.2651515151515151 0.4733009708737864 0.5266990291262136 0.9069767441860465 0.09302325581395349 1 0 1 0 0 1</probabilities>
+		</cpt>
+		<cpt id="max_heart_rate">
+			<state id="a_vhigh" />
+			<state id="a_high" />
+			<state id="a_moderate" />
+			<state id="a_missing" />
+			<state id="a_low" />
+			<parents>exercise_induced_angina slope</parents>
+			<probabilities>0.5968586387434555 0.3403141361256545 0.04450261780104712 0.01047120418848168 0.007853403141361256 0.35 0.575 0.075 0 0 0.2713178294573643 0.4844961240310077 0.2015503875968992 0 0.04263565891472868 0.4022988505747127 0.4597701149425287 0.1379310344827586 0 0 0 0.5294117647058824 0.3529411764705883 0 0.1176470588235294 0.05357142857142857 0.4732142857142857 0.4285714285714285 0 0.04464285714285714</probabilities>
+		</cpt>
+		<cpt id="vessels_colored_by_flourosopy">
+			<state id="a_Two" />
+			<state id="a_Zero" />
+			<state id="a_One" />
+			<state id="a_Three" />
+			<state id="a_Four" />
+			<parents>sex target</parents>
+			<probabilities>0.2009685230024213 0.3196125907990315 0.360774818401937 0.1113801452784504 0.007263922518159807 0.02 0.8066666666666666 0.09333333333333334 0.03 0.05 0.3488372093023256 0.3604651162790697 0.1279069767441861 0.1627906976744186 0 0.06637168141592921 0.7654867256637168 0.168141592920354 0 0</probabilities>
+		</cpt>
+		<cpt id="age">
+			<state id="a_51to60" />
+			<state id="a_61plus" />
+			<state id="a_41to50" />
+			<state id="a_29to40" />
+			<parents>vessels_colored_by_flourosopy</parents>
+			<probabilities>0.4701492537313433 0.4253731343283582 0.1044776119402985 0 0.3754325259515571 0.1799307958477509 0.3408304498269896 0.1038062283737024 0.5796460176991151 0.3230088495575221 0.09734513274336283 0 0.2898550724637681 0.5507246376811594 0.1594202898550725 0 0.3888888888888889 0 0.1666666666666667 0.4444444444444444</probabilities>
+		</cpt>
+		<cpt id="resting_blood_pressure">
+			<state id="a_normal" />
+			<state id="a_elevated" />
+			<state id="a_low" />
+			<state id="a_high" />
+			<parents>age</parents>
+			<probabilities>0.5273972602739726 0.134703196347032 0.2511415525114155 0.0867579908675799 0.3970588235294117 0.2977941176470588 0.2536764705882353 0.05147058823529412 0.4210526315789473 0.08502024291497975 0.4939271255060729 0 0.5294117647058824 0.05882352941176471 0.4117647058823529 0</probabilities>
+		</cpt>
+		<cpt id="cholestoral">
+			<state id="a_borderline" />
+			<state id="a_normal" />
+			<state id="a_vhigh" />
+			<state id="a_high" />
+			<parents>age</parents>
+			<probabilities>0.3858447488584475 0.1232876712328767 0.2876712328767123 0.2031963470319635 0.2867647058823529 0.125 0.2794117647058824 0.3088235294117647 0.3117408906882591 0.2064777327935223 0.1336032388663968 0.3481781376518219 0.3823529411764706 0.4852941176470588 0.08823529411764706 0.04411764705882353</probabilities>
+		</cpt>
+		<cpt id="fasting_blood_sugar">
+			<state id="a_Lower_than_120_mg_ml" />
+			<state id="a_Greater_than_120_mg_ml" />
+			<parents>resting_blood_pressure target</parents>
+			<probabilities>0.7685589519650655 0.2314410480349345 0.876 0.124 0.967741935483871 0.03225806451612903 0.7083333333333334 0.2916666666666667 0.9710144927536232 0.02898550724637681 0.9162303664921466 0.08376963350785341 0.4358974358974359 0.5641025641025641 0.7692307692307693 0.2307692307692308</probabilities>
+		</cpt>
+		<cpt id="rest_ecg">
+			<state id="a_ST_T_wave_abnormality" />
+			<state id="a_Normal" />
+			<state id="a_Left_ventricular_hypertrophy" />
+			<parents>max_heart_rate</parents>
+			<probabilities>0.6462395543175488 0.3537604456824512 0 0.4343891402714932 0.5565610859728507 0.009049773755656109 0.3541666666666667 0.5885416666666666 0.05729166666666666 0 1 0 0.75 0.25 0</probabilities>
+		</cpt>
+	</nodes>
+	<extensions>
+		<genie version="1.0" app="GeNIe 5.0.4830.0 ACADEMIC" name="Bayesys_network">
+			<node id="age">
+				<name>age</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>74 844 74 844</position>
+				<barchart active="true" width="128" height="90" />
+			</node>
+			<node id="sex">
+				<name>sex</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>303 598 303 598</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="chest_pain_type">
+				<name>chest_pain_type</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>73 62 73 62</position>
+				<barchart active="true" width="128" height="90" />
+			</node>
+			<node id="resting_blood_pressure">
+				<name>resting_blood_pressure</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>74 974 74 974</position>
+				<barchart active="true" width="128" height="90" />
+			</node>
+			<node id="cholestoral">
+				<name>cholestoral</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>228 974 228 974</position>
+				<barchart active="true" width="128" height="90" />
+			</node>
+			<node id="fasting_blood_sugar">
+				<name>fasting_blood_sugar</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>74 1104 74 1104</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="rest_ecg">
+				<name>rest_ecg</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>228 844 228 844</position>
+				<barchart active="true" width="128" height="72" />
+			</node>
+			<node id="max_heart_rate">
+				<name>max_heart_rate</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>74 714 74 714</position>
+				<barchart active="true" width="128" height="108" />
+			</node>
+			<node id="exercise_induced_angina">
+				<name>exercise_induced_angina</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>74 194 74 194</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="oldpeak">
+				<name>oldpeak</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>314 498 314 498</position>
+				<barchart active="true" width="128" height="90" />
+			</node>
+			<node id="slope">
+				<name>slope</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>826 639 826 639</position>
+				<barchart active="true" width="128" height="72" />
+			</node>
+			<node id="vessels_colored_by_flourosopy">
+				<name>vessels_colored_by_flourosopy</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>228 714 228 714</position>
+				<barchart active="true" width="128" height="108" />
+			</node>
+			<node id="thalassemia">
+				<name>thalassemia</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>850 442 850 442</position>
+				<barchart active="true" width="128" height="90" />
+			</node>
+			<node id="target">
+				<name>target</name>
+				<interior color="e5f6f7" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="8" />
+				<position>74 324 74 324</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+		</genie>
+	</extensions>
+</smile>

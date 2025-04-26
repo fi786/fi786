@@ -1,0 +1,1026 @@
+age,sex,chest_pain_type,resting_blood_pressure,cholestoral,fasting_blood_sugar,rest_ecg,max_heart_rate,exercise_induced_angina,oldpeak,slope,vessels_colored_by_flourosopy,thalassemia,target
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Two,Reversable Defect,0
+51to60,Male,Typical angina,normal,borderline,Greater than 120 mg/ml,Normal,high,Yes,moderate,Upsloping,Zero,Reversable Defect,0
+61plus,Male,Typical angina,elevated,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,moderate,Upsloping,Zero,Reversable Defect,0
+61plus,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,One,Reversable Defect,0
+61plus,Female,Typical angina,normal,vhigh,Greater than 120 mg/ml,ST-T wave abnormality,moderate,No,mild,Flat,Three,Fixed Defect,0
+51to60,Female,Typical angina,low,high,Lower than 120 mg/ml,Normal,moderate,No,low,Flat,Zero,Fixed Defect,1
+51to60,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,Left ventricular hypertrophy,high,No,severe,Upsloping,Three,Normal,0
+51to60,Male,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,One,Reversable Defect,0
+41to50,Male,Typical angina,low,high,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Reversable Defect,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,Two,Fixed Defect,0
+61plus,Female,Typical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,mild,Flat,Zero,Fixed Defect,1
+41to50,Female,Typical angina,normal,vhigh,Greater than 120 mg/ml,Normal,high,Yes,moderate,Flat,Zero,Reversable Defect,0
+29to40,Female,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,severe,Flat,Three,Reversable Defect,0
+51to60,Male,Typical angina,normal,borderline,Greater than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Flat,Zero,No,0
+29to40,Female,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Female,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,Normal,high,No,mild,Downsloping,One,Fixed Defect,1
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,One,Reversable Defect,0
+41to50,Female,Atypical angina,low,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,normal,borderline,Greater than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,normal,normal,Lower than 120 mg/ml,Normal,high,No,moderate,Flat,Zero,Fixed Defect,0
+61plus,Female,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Two,Fixed Defect,1
+41to50,Male,Typical angina,low,borderline,Lower than 120 mg/ml,Normal,high,Yes,moderate,Flat,Zero,Fixed Defect,1
+61plus,Female,Non-anginal pain,normal,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Female,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,Zero,Fixed Defect,1
+61plus,Female,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,Zero,Reversable Defect,0
+41to50,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Downsloping,Zero,Fixed Defect,1
+51to60,Female,Atypical angina,normal,vhigh,Greater than 120 mg/ml,Normal,high,No,low,Downsloping,Two,Fixed Defect,0
+51to60,Male,Non-anginal pain,normal,high,Greater than 120 mg/ml,Normal,high,Yes,low,Flat,One,Normal,0
+51to60,Female,Typical angina,high,vhigh,Lower than 120 mg/ml,Left ventricular hypertrophy,moderate,Yes,moderate,Flat,Zero,Fixed Defect,0
+41to50,Male,Typical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,moderate,Upsloping,Zero,Normal,0
+41to50,Female,Atypical angina,low,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,mild,Flat,One,Reversable Defect,0
+61plus,Male,Non-anginal pain,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,moderate,Flat,One,Reversable Defect,0
+41to50,Male,Non-anginal pain,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Non-anginal pain,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,moderate,Flat,Zero,Fixed Defect,0
+51to60,Male,Asymptomatic,normal,borderline,Lower than 120 mg/ml,Normal,moderate,Yes,mild,Downsloping,One,Fixed Defect,1
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Typical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,low,Flat,One,Reversable Defect,1
+51to60,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,Normal,high,No,low,Flat,One,Reversable Defect,0
+61plus,Female,Non-anginal pain,elevated,vhigh,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,low,high,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Reversable Defect,1
+61plus,Female,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,0
+41to50,Male,Typical angina,low,high,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Reversable Defect,0
+51to60,Female,Atypical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Zero,Normal,1
+61plus,Female,Typical angina,high,borderline,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Flat,Two,Reversable Defect,0
+61plus,Female,Non-anginal pain,elevated,high,Lower than 120 mg/ml,Normal,high,No,low,Flat,One,Fixed Defect,1
+51to60,Male,Typical angina,low,borderline,Greater than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Downsloping,Two,Reversable Defect,0
+51to60,Female,Asymptomatic,elevated,vhigh,Greater than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Female,Typical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,low,Flat,Zero,Reversable Defect,0
+29to40,Male,Non-anginal pain,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Four,Fixed Defect,1
+41to50,Male,Non-anginal pain,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Three,Reversable Defect,0
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,severe,Upsloping,Zero,Reversable Defect,0
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,severe,Upsloping,Zero,Reversable Defect,0
+51to60,Male,Asymptomatic,low,normal,Lower than 120 mg/ml,Normal,vhigh,No,mild,Flat,Zero,Reversable Defect,1
+41to50,Male,Atypical angina,normal,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,Zero,Fixed Defect,1
+61plus,Male,Non-anginal pain,elevated,borderline,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Reversable Defect,0
+51to60,Male,Atypical angina,elevated,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,One,Fixed Defect,0
+29to40,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,missing,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Non-anginal pain,elevated,high,Lower than 120 mg/ml,Normal,high,No,low,Flat,One,Fixed Defect,1
+61plus,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,Normal,moderate,Yes,low,Flat,Two,Fixed Defect,0
+51to60,Male,Non-anginal pain,elevated,borderline,Greater than 120 mg/ml,ST-T wave abnormality,high,No,mild,Downsloping,Zero,Fixed Defect,1
+29to40,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,missing,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Asymptomatic,high,vhigh,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Reversable Defect,0
+51to60,Male,Non-anginal pain,normal,normal,Greater than 120 mg/ml,Normal,high,No,mild,Upsloping,Zero,Fixed Defect,1
+41to50,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,mild,Flat,Zero,Normal,0
+29to40,Female,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Typical angina,elevated,normal,Lower than 120 mg/ml,Normal,high,No,severe,Upsloping,Three,Reversable Defect,0
+51to60,Male,Typical angina,high,vhigh,Lower than 120 mg/ml,Normal,high,Yes,moderate,Upsloping,Zero,Reversable Defect,0
+61plus,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,high,Yes,mild,Downsloping,One,Reversable Defect,0
+51to60,Male,Typical angina,normal,high,Greater than 120 mg/ml,Normal,high,Yes,mild,Flat,One,Fixed Defect,0
+51to60,Male,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Downsloping,One,Reversable Defect,0
+41to50,Male,Typical angina,normal,high,Greater than 120 mg/ml,Normal,high,Yes,low,Downsloping,Two,Reversable Defect,0
+41to50,Male,Non-anginal pain,normal,high,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Non-anginal pain,normal,high,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Two,Fixed Defect,1
+61plus,Male,Typical angina,normal,normal,Lower than 120 mg/ml,Normal,high,Yes,moderate,Downsloping,Two,Reversable Defect,0
+51to60,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,One,Fixed Defect,1
+51to60,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,One,Fixed Defect,1
+41to50,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,One,Reversable Defect,0
+41to50,Male,Non-anginal pain,low,normal,Lower than 120 mg/ml,Normal,moderate,No,low,Downsloping,Three,Fixed Defect,0
+41to50,Male,Non-anginal pain,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,moderate,Flat,Zero,Fixed Defect,0
+29to40,Male,Non-anginal pain,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Four,Fixed Defect,1
+29to40,Female,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,normal,borderline,Greater than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Female,Typical angina,high,high,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Flat,Zero,Fixed Defect,0
+61plus,Female,Typical angina,normal,high,Lower than 120 mg/ml,Normal,high,No,moderate,Upsloping,Two,Fixed Defect,0
+61plus,Male,Typical angina,elevated,normal,Greater than 120 mg/ml,ST-T wave abnormality,high,No,moderate,Flat,Two,Reversable Defect,0
+51to60,Female,Non-anginal pain,low,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Typical angina,normal,normal,Lower than 120 mg/ml,Normal,high,Yes,moderate,Downsloping,Two,Reversable Defect,0
+41to50,Male,Typical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,moderate,Upsloping,Zero,Normal,0
+61plus,Male,Atypical angina,normal,borderline,Greater than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Female,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,Zero,Fixed Defect,1
+51to60,Female,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,One,Fixed Defect,1
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,low,Yes,mild,Flat,Two,Reversable Defect,0
+61plus,Male,Typical angina,low,high,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Two,Normal,0
+61plus,Female,Non-anginal pain,normal,normal,Lower than 120 mg/ml,Left ventricular hypertrophy,moderate,No,mild,Flat,Zero,Fixed Defect,1
+41to50,Female,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,elevated,normal,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,One,Reversable Defect,1
+51to60,Male,Atypical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Reversable Defect,1
+41to50,Male,Non-anginal pain,normal,high,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Asymptomatic,low,normal,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,Zero,Normal,1
+41to50,Male,Typical angina,low,high,Lower than 120 mg/ml,Normal,moderate,Yes,low,Flat,One,Fixed Defect,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,mild,Downsloping,Zero,Reversable Defect,0
+61plus,Male,Atypical angina,low,vhigh,Lower than 120 mg/ml,Normal,moderate,No,mild,Flat,One,Reversable Defect,0
+29to40,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Reversable Defect,0
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,Normal,moderate,Yes,low,Flat,One,Fixed Defect,0
+41to50,Male,Typical angina,low,normal,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,One,Fixed Defect,0
+51to60,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,Normal,moderate,Yes,low,Downsloping,Zero,Reversable Defect,1
+41to50,Male,Typical angina,normal,high,Greater than 120 mg/ml,Normal,high,Yes,low,Downsloping,Two,Reversable Defect,0
+51to60,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,moderate,Flat,One,Reversable Defect,0
+51to60,Male,Non-anginal pain,normal,borderline,Greater than 120 mg/ml,ST-T wave abnormality,high,No,moderate,Flat,One,Normal,0
+61plus,Female,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,Zero,Reversable Defect,0
+61plus,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,high,No,mild,Flat,One,Reversable Defect,0
+41to50,Male,Typical angina,low,normal,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,Zero,Reversable Defect,0
+29to40,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,missing,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Atypical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Atypical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Reversable Defect,1
+41to50,Male,Typical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,moderate,Upsloping,Zero,Normal,0
+51to60,Male,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,high,Yes,moderate,Flat,Two,Reversable Defect,0
+61plus,Female,Non-anginal pain,normal,vhigh,Greater than 120 mg/ml,Normal,high,No,low,Downsloping,One,Fixed Defect,1
+61plus,Male,Typical angina,low,high,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,moderate,Flat,One,Reversable Defect,0
+51to60,Female,Asymptomatic,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,normal,normal,Greater than 120 mg/ml,Normal,high,No,mild,Upsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Four,Fixed Defect,1
+51to60,Male,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Zero,Normal,1
+51to60,Female,Asymptomatic,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Female,Non-anginal pain,normal,high,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Zero,Normal,1
+41to50,Male,Non-anginal pain,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Atypical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Reversable Defect,1
+51to60,Female,Typical angina,high,borderline,Greater than 120 mg/ml,Normal,high,Yes,moderate,Flat,Two,Normal,0
+51to60,Female,Atypical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Typical angina,high,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Non-anginal pain,normal,high,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,low,Yes,mild,Flat,One,Reversable Defect,0
+61plus,Female,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Flat,Zero,Fixed Defect,0
+61plus,Male,Asymptomatic,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,moderate,Flat,Two,Fixed Defect,0
+29to40,Male,Asymptomatic,low,normal,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,1
+29to40,Male,Typical angina,low,normal,Lower than 120 mg/ml,Normal,moderate,Yes,mild,Flat,Zero,Reversable Defect,0
+51to60,Female,Non-anginal pain,low,vhigh,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Typical angina,low,normal,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Reversable Defect,0
+51to60,Male,Asymptomatic,elevated,vhigh,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Flat,Zero,Reversable Defect,1
+29to40,Male,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,Left ventricular hypertrophy,high,No,severe,Upsloping,Three,Normal,0
+51to60,Male,Atypical angina,high,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,One,Reversable Defect,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Two,Reversable Defect,0
+51to60,Male,Non-anginal pain,low,high,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Reversable Defect,1
+61plus,Male,Typical angina,normal,vhigh,Greater than 120 mg/ml,Normal,high,Yes,mild,Downsloping,Three,Reversable Defect,0
+51to60,Male,Atypical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Reversable Defect,1
+29to40,Male,Asymptomatic,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,mild,Downsloping,Zero,Reversable Defect,1
+51to60,Male,Non-anginal pain,low,high,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Reversable Defect,1
+61plus,Female,Non-anginal pain,low,vhigh,Lower than 120 mg/ml,Normal,high,No,mild,Flat,Zero,Reversable Defect,1
+41to50,Male,Atypical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,Yes,low,Downsloping,Three,Fixed Defect,0
+51to60,Male,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Flat,Zero,Fixed Defect,1
+61plus,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,Yes,low,Downsloping,Three,Fixed Defect,0
+41to50,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,Zero,Reversable Defect,0
+51to60,Male,Typical angina,normal,high,Greater than 120 mg/ml,Normal,high,Yes,mild,Flat,One,Fixed Defect,0
+51to60,Male,Typical angina,high,vhigh,Lower than 120 mg/ml,Normal,high,Yes,moderate,Upsloping,Zero,Reversable Defect,0
+51to60,Male,Typical angina,normal,normal,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,One,Normal,0
+51to60,Female,Typical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,One,Fixed Defect,1
+41to50,Female,Atypical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Zero,Fixed Defect,1
+41to50,Male,Typical angina,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,vhigh,Greater than 120 mg/ml,Normal,moderate,Yes,mild,Upsloping,Zero,Reversable Defect,0
+51to60,Male,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Upsloping,Zero,Fixed Defect,1
+29to40,Female,Non-anginal pain,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,moderate,Flat,One,Reversable Defect,0
+51to60,Female,Typical angina,high,vhigh,Greater than 120 mg/ml,Normal,high,Yes,moderate,Upsloping,Two,Reversable Defect,0
+51to60,Male,Typical angina,normal,vhigh,Greater than 120 mg/ml,Normal,moderate,Yes,mild,Upsloping,Zero,Reversable Defect,0
+61plus,Male,Typical angina,low,high,Lower than 120 mg/ml,Normal,low,Yes,moderate,Upsloping,One,Fixed Defect,0
+41to50,Male,Typical angina,low,normal,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,One,Fixed Defect,0
+51to60,Female,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,high,Yes,mild,Flat,Two,Reversable Defect,0
+61plus,Male,Typical angina,normal,normal,Lower than 120 mg/ml,Normal,high,Yes,moderate,Downsloping,Two,Reversable Defect,0
+61plus,Male,Asymptomatic,low,borderline,Lower than 120 mg/ml,Normal,high,Yes,mild,Flat,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,mild,Flat,Two,Reversable Defect,0
+41to50,Male,Non-anginal pain,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Atypical angina,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,high,vhigh,Greater than 120 mg/ml,Normal,moderate,No,low,Flat,Three,Reversable Defect,0
+29to40,Male,Typical angina,low,normal,Lower than 120 mg/ml,Normal,moderate,Yes,mild,Flat,Zero,Reversable Defect,0
+51to60,Male,Typical angina,normal,high,Greater than 120 mg/ml,Normal,high,Yes,mild,Flat,One,Fixed Defect,0
+61plus,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,high,No,mild,Flat,One,Reversable Defect,0
+61plus,Male,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Flat,Zero,Reversable Defect,0
+41to50,Male,Non-anginal pain,low,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Reversable Defect,1
+61plus,Female,Non-anginal pain,low,vhigh,Lower than 120 mg/ml,Normal,high,No,mild,Flat,Zero,Reversable Defect,1
+61plus,Male,Asymptomatic,elevated,borderline,Greater than 120 mg/ml,Normal,high,No,low,Flat,One,Fixed Defect,1
+61plus,Male,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,moderate,Yes,mild,Flat,Three,Fixed Defect,0
+51to60,Male,Non-anginal pain,elevated,borderline,Greater than 120 mg/ml,ST-T wave abnormality,high,No,mild,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,One,Reversable Defect,0
+41to50,Male,Typical angina,low,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Female,Non-anginal pain,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,One,Fixed Defect,1
+41to50,Male,Typical angina,elevated,normal,Lower than 120 mg/ml,Normal,moderate,Yes,low,Flat,Zero,Reversable Defect,0
+61plus,Female,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+29to40,Male,Asymptomatic,low,normal,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Asymptomatic,elevated,vhigh,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Flat,Zero,Reversable Defect,1
+61plus,Male,Asymptomatic,high,borderline,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Reversable Defect,1
+61plus,Female,Non-anginal pain,elevated,high,Lower than 120 mg/ml,Normal,high,No,low,Flat,One,Fixed Defect,1
+41to50,Male,Asymptomatic,elevated,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Two,Fixed Defect,1
+51to60,Male,Non-anginal pain,normal,borderline,Greater than 120 mg/ml,ST-T wave abnormality,high,No,moderate,Flat,One,Normal,0
+41to50,Male,Non-anginal pain,low,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+29to40,Male,Non-anginal pain,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Four,Fixed Defect,1
+61plus,Male,Atypical angina,low,vhigh,Lower than 120 mg/ml,Normal,moderate,No,mild,Flat,One,Reversable Defect,0
+41to50,Male,Non-anginal pain,low,borderline,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Upsloping,Zero,Reversable Defect,1
+61plus,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,Normal,moderate,Yes,low,Flat,Two,Fixed Defect,0
+41to50,Male,Typical angina,elevated,high,Lower than 120 mg/ml,Normal,moderate,No,moderate,Flat,Zero,Reversable Defect,0
+41to50,Male,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,One,Fixed Defect,1
+41to50,Male,Atypical angina,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Atypical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,moderate,No,moderate,Flat,One,Reversable Defect,0
+41to50,Male,Atypical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,mild,Flat,Two,Reversable Defect,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,Two,Fixed Defect,0
+51to60,Female,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,One,Fixed Defect,0
+61plus,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,high,No,mild,Flat,One,Reversable Defect,0
+61plus,Male,Asymptomatic,low,borderline,Lower than 120 mg/ml,Normal,high,Yes,mild,Flat,Zero,Fixed Defect,1
+29to40,Female,Non-anginal pain,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,vhigh,Yes,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,elevated,borderline,Lower than 120 mg/ml,Normal,vhigh,No,mild,Downsloping,Zero,Reversable Defect,1
+41to50,Male,Non-anginal pain,low,normal,Lower than 120 mg/ml,Normal,moderate,No,low,Downsloping,Three,Fixed Defect,0
+41to50,Female,Non-anginal pain,low,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,One,Fixed Defect,1
+51to60,Male,Atypical angina,normal,borderline,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Typical angina,high,borderline,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Flat,Two,Reversable Defect,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Two,Reversable Defect,0
+51to60,Male,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,high,Yes,moderate,Flat,One,Reversable Defect,0
+41to50,Female,Atypical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Female,Typical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Asymptomatic,high,borderline,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Reversable Defect,1
+41to50,Male,Non-anginal pain,low,normal,Lower than 120 mg/ml,Normal,moderate,No,low,Downsloping,Three,Fixed Defect,0
+51to60,Male,Atypical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Reversable Defect,0
+51to60,Male,Typical angina,low,borderline,Greater than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Downsloping,Two,Reversable Defect,0
+61plus,Female,Typical angina,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Flat,Zero,Fixed Defect,0
+51to60,Female,Atypical angina,normal,vhigh,Greater than 120 mg/ml,Normal,high,Yes,low,Downsloping,One,Fixed Defect,1
+61plus,Male,Non-anginal pain,elevated,borderline,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Reversable Defect,0
+29to40,Male,Non-anginal pain,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Four,Fixed Defect,1
+51to60,Male,Non-anginal pain,normal,normal,Lower than 120 mg/ml,Normal,high,No,moderate,Flat,Zero,Fixed Defect,0
+51to60,Male,Non-anginal pain,normal,high,Greater than 120 mg/ml,Normal,vhigh,No,moderate,Flat,Zero,Fixed Defect,1
+41to50,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Atypical angina,high,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,One,Reversable Defect,0
+41to50,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,mild,Flat,Two,Reversable Defect,0
+29to40,Female,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Zero,Fixed Defect,1
+41to50,Male,Non-anginal pain,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Typical angina,low,high,Lower than 120 mg/ml,Normal,moderate,Yes,low,Flat,One,Fixed Defect,0
+41to50,Female,Atypical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Flat,One,Reversable Defect,0
+51to60,Male,Typical angina,high,vhigh,Greater than 120 mg/ml,Normal,moderate,No,low,Flat,Three,Reversable Defect,0
+29to40,Male,Typical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,mild,Flat,Zero,Reversable Defect,0
+61plus,Female,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,high,No,mild,Flat,Zero,Fixed Defect,1
+29to40,Female,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Typical angina,high,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Downsloping,Zero,Fixed Defect,1
+29to40,Male,Asymptomatic,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,moderate,Flat,Zero,Reversable Defect,0
+61plus,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Fixed Defect,1
+41to50,Male,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,elevated,borderline,Lower than 120 mg/ml,Normal,vhigh,No,mild,Downsloping,Zero,Reversable Defect,1
+41to50,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Female,Atypical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+51to60,Female,Typical angina,high,borderline,Greater than 120 mg/ml,Normal,high,Yes,moderate,Flat,Two,Normal,0
+41to50,Male,Typical angina,low,borderline,Lower than 120 mg/ml,Normal,high,Yes,moderate,Flat,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,low,Yes,mild,Flat,Two,Reversable Defect,0
+61plus,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,low,No,low,Flat,Zero,Fixed Defect,0
+51to60,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,moderate,Downsloping,Two,Reversable Defect,0
+61plus,Female,Non-anginal pain,low,high,Greater than 120 mg/ml,Normal,moderate,No,low,Downsloping,One,Fixed Defect,1
+41to50,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Reversable Defect,1
+41to50,Male,Atypical angina,low,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Reversable Defect,1
+29to40,Female,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Zero,Fixed Defect,1
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,Normal,moderate,Yes,low,Flat,One,Fixed Defect,0
+61plus,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,Normal,high,No,moderate,Downsloping,Zero,Normal,1
+51to60,Male,Typical angina,normal,vhigh,Greater than 120 mg/ml,Normal,moderate,Yes,mild,Upsloping,Zero,Reversable Defect,0
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Downsloping,Zero,Reversable Defect,1
+41to50,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,One,Reversable Defect,0
+41to50,Female,Atypical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,One,Fixed Defect,1
+41to50,Female,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,Zero,Fixed Defect,1
+29to40,Male,Atypical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Female,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Asymptomatic,low,borderline,Lower than 120 mg/ml,Normal,high,Yes,mild,Flat,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,moderate,Downsloping,Two,Reversable Defect,0
+61plus,Female,Non-anginal pain,low,high,Greater than 120 mg/ml,Normal,moderate,No,low,Downsloping,One,Fixed Defect,1
+61plus,Female,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Reversable Defect,1
+61plus,Female,Atypical angina,elevated,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Two,Fixed Defect,1
+51to60,Female,Non-anginal pain,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+29to40,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Reversable Defect,0
+51to60,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Four,Fixed Defect,1
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,Two,Reversable Defect,0
+61plus,Male,Non-anginal pain,elevated,high,Greater than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Flat,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,elevated,borderline,Greater than 120 mg/ml,ST-T wave abnormality,high,No,mild,Downsloping,Zero,Fixed Defect,1
+51to60,Female,Typical angina,high,vhigh,Greater than 120 mg/ml,Normal,high,Yes,moderate,Upsloping,Two,Reversable Defect,0
+61plus,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,Normal,moderate,Yes,low,Flat,Two,Fixed Defect,0
+61plus,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,low,No,low,Flat,Zero,Fixed Defect,0
+51to60,Male,Typical angina,elevated,high,Lower than 120 mg/ml,Normal,moderate,Yes,low,Downsloping,Zero,Reversable Defect,0
+29to40,Male,Atypical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Atypical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Female,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Downsloping,One,Reversable Defect,1
+51to60,Female,Atypical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,high,Yes,moderate,Flat,Two,Reversable Defect,0
+51to60,Female,Non-anginal pain,normal,normal,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,Zero,Fixed Defect,1
+61plus,Male,Typical angina,low,high,Lower than 120 mg/ml,ST-T wave abnormality,low,Yes,mild,Flat,Two,Reversable Defect,0
+41to50,Female,Non-anginal pain,low,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,One,Fixed Defect,1
+41to50,Male,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,normal,borderline,Greater than 120 mg/ml,ST-T wave abnormality,high,No,moderate,Flat,One,Normal,0
+51to60,Female,Atypical angina,normal,vhigh,Lower than 120 mg/ml,Normal,high,No,mild,Flat,Zero,Fixed Defect,1
+61plus,Male,Typical angina,low,high,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,moderate,Flat,One,Reversable Defect,0
+41to50,Male,Typical angina,normal,high,Greater than 120 mg/ml,Normal,high,Yes,low,Downsloping,Two,Reversable Defect,0
+61plus,Male,Non-anginal pain,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,moderate,Flat,One,Reversable Defect,0
+61plus,Female,Atypical angina,low,high,Lower than 120 mg/ml,Normal,moderate,Yes,low,Downsloping,One,Fixed Defect,1
+29to40,Male,Asymptomatic,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,mild,Downsloping,Zero,Reversable Defect,1
+41to50,Male,Asymptomatic,elevated,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Two,Fixed Defect,1
+61plus,Female,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Reversable Defect,1
+61plus,Female,Non-anginal pain,normal,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Downsloping,One,Reversable Defect,0
+51to60,Female,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,Normal,moderate,No,low,Downsloping,Zero,No,1
+51to60,Female,Typical angina,normal,high,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Fixed Defect,1
+41to50,Female,Non-anginal pain,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,Three,Reversable Defect,0
+61plus,Male,Atypical angina,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,low,Flat,Three,Normal,0
+41to50,Male,Atypical angina,normal,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,Zero,Fixed Defect,1
+51to60,Female,Atypical angina,normal,vhigh,Lower than 120 mg/ml,Normal,high,No,mild,Flat,Zero,Fixed Defect,1
+51to60,Male,Atypical angina,high,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,One,Reversable Defect,0
+51to60,Male,Typical angina,elevated,high,Lower than 120 mg/ml,Normal,moderate,Yes,low,Flat,One,Normal,0
+61plus,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,moderate,No,moderate,Flat,Three,Fixed Defect,0
+51to60,Female,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,Normal,moderate,No,low,Downsloping,Zero,No,1
+29to40,Female,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Typical angina,low,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,mild,Flat,Two,Fixed Defect,0
+29to40,Male,Non-anginal pain,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,moderate,Upsloping,Zero,Fixed Defect,1
+51to60,Female,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,high,Yes,moderate,Flat,Two,Reversable Defect,0
+51to60,Male,Typical angina,elevated,high,Lower than 120 mg/ml,Normal,moderate,Yes,low,Downsloping,Zero,Reversable Defect,0
+51to60,Male,Non-anginal pain,elevated,normal,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,One,Reversable Defect,1
+51to60,Male,Non-anginal pain,normal,high,Lower than 120 mg/ml,Normal,high,No,low,Upsloping,One,Fixed Defect,1
+51to60,Male,Non-anginal pain,normal,high,Greater than 120 mg/ml,Normal,high,Yes,low,Flat,One,Normal,0
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Downsloping,One,Reversable Defect,0
+29to40,Male,Non-anginal pain,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Four,Fixed Defect,1
+41to50,Male,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Non-anginal pain,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,high,normal,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Reversable Defect,1
+41to50,Male,Atypical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Atypical angina,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,low,Flat,Three,Normal,0
+41to50,Male,Typical angina,elevated,high,Lower than 120 mg/ml,Normal,moderate,No,moderate,Flat,Zero,Reversable Defect,0
+51to60,Female,Non-anginal pain,low,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Typical angina,normal,high,Greater than 120 mg/ml,Normal,high,Yes,low,Flat,Four,Reversable Defect,0
+61plus,Female,Non-anginal pain,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,low,No,mild,Flat,One,Reversable Defect,0
+61plus,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Fixed Defect,1
+41to50,Male,Typical angina,elevated,normal,Lower than 120 mg/ml,Normal,moderate,Yes,low,Flat,Zero,Reversable Defect,0
+51to60,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,moderate,Flat,One,Reversable Defect,0
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,mild,Flat,Zero,Normal,1
+51to60,Male,Atypical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Reversable Defect,0
+41to50,Female,Typical angina,normal,high,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,Zero,Fixed Defect,1
+51to60,Male,Typical angina,high,normal,Greater than 120 mg/ml,Normal,low,No,low,Flat,Two,Normal,0
+61plus,Male,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,moderate,Yes,mild,Flat,Three,Fixed Defect,0
+51to60,Male,Asymptomatic,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Two,Fixed Defect,0
+51to60,Female,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,Normal,moderate,No,low,Downsloping,Zero,No,1
+41to50,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Three,Reversable Defect,1
+41to50,Female,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,normal,high,Greater than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Three,Fixed Defect,1
+51to60,Female,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,One,Fixed Defect,0
+51to60,Male,Non-anginal pain,normal,high,Greater than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Three,Fixed Defect,1
+51to60,Male,Non-anginal pain,low,borderline,Lower than 120 mg/ml,Normal,vhigh,No,moderate,Flat,One,Reversable Defect,0
+41to50,Male,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Upsloping,Zero,Reversable Defect,0
+51to60,Male,Non-anginal pain,low,borderline,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,Zero,Reversable Defect,1
+51to60,Male,Non-anginal pain,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Female,Typical angina,normal,vhigh,Greater than 120 mg/ml,Normal,high,Yes,moderate,Flat,Zero,Reversable Defect,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Flat,One,Reversable Defect,0
+51to60,Female,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Zero,Fixed Defect,1
+51to60,Male,Atypical angina,low,vhigh,Lower than 120 mg/ml,Normal,high,No,mild,Flat,Zero,Fixed Defect,0
+41to50,Female,Non-anginal pain,elevated,normal,Lower than 120 mg/ml,Normal,high,Yes,mild,Upsloping,Zero,Fixed Defect,1
+61plus,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,Normal,high,No,moderate,Downsloping,Zero,Normal,1
+51to60,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,mild,Flat,Two,Fixed Defect,1
+61plus,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,low,No,low,Flat,Zero,Fixed Defect,0
+51to60,Male,Asymptomatic,low,normal,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,Zero,Normal,1
+51to60,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,mild,Flat,One,Reversable Defect,0
+51to60,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,moderate,Downsloping,Two,Reversable Defect,0
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,Normal,high,Yes,mild,Flat,One,Reversable Defect,0
+51to60,Male,Typical angina,elevated,high,Lower than 120 mg/ml,Normal,moderate,Yes,low,Downsloping,Zero,Reversable Defect,0
+29to40,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,high,Yes,low,Downsloping,Zero,Reversable Defect,0
+51to60,Male,Non-anginal pain,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Female,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,Zero,Fixed Defect,1
+61plus,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,Yes,low,Downsloping,Three,Fixed Defect,0
+61plus,Male,Typical angina,low,high,Lower than 120 mg/ml,Normal,low,Yes,moderate,Upsloping,One,Fixed Defect,0
+61plus,Male,Asymptomatic,elevated,borderline,Greater than 120 mg/ml,Normal,high,No,moderate,Upsloping,Zero,Normal,1
+51to60,Female,Atypical angina,normal,vhigh,Greater than 120 mg/ml,Normal,high,No,low,Downsloping,Two,Fixed Defect,0
+41to50,Male,Asymptomatic,low,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Zero,Reversable Defect,0
+51to60,Male,Non-anginal pain,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Typical angina,elevated,normal,Lower than 120 mg/ml,Normal,high,No,severe,Upsloping,Three,Reversable Defect,0
+61plus,Male,Typical angina,normal,vhigh,Greater than 120 mg/ml,Normal,high,Yes,mild,Downsloping,Three,Reversable Defect,0
+61plus,Female,Non-anginal pain,elevated,high,Lower than 120 mg/ml,Normal,high,No,low,Flat,One,Fixed Defect,1
+61plus,Male,Non-anginal pain,high,high,Greater than 120 mg/ml,Normal,high,Yes,mild,Flat,Zero,Reversable Defect,0
+29to40,Male,Typical angina,low,normal,Lower than 120 mg/ml,Normal,moderate,Yes,mild,Flat,Zero,Reversable Defect,0
+61plus,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,Normal,high,No,moderate,Downsloping,Zero,Normal,1
+61plus,Male,Asymptomatic,elevated,borderline,Greater than 120 mg/ml,Normal,high,No,moderate,Upsloping,Zero,Normal,1
+41to50,Male,Non-anginal pain,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Three,Reversable Defect,0
+61plus,Female,Typical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,mild,Flat,Zero,Fixed Defect,1
+61plus,Male,Atypical angina,elevated,high,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Female,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,high,Yes,mild,Downsloping,One,Reversable Defect,0
+51to60,Male,Non-anginal pain,normal,high,Greater than 120 mg/ml,Normal,high,Yes,low,Flat,One,Normal,0
+51to60,Male,Non-anginal pain,normal,borderline,Greater than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,One,Reversable Defect,0
+41to50,Female,Typical angina,normal,high,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,Zero,Fixed Defect,1
+41to50,Male,Non-anginal pain,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,moderate,Flat,Zero,Fixed Defect,0
+41to50,Female,Atypical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,One,Fixed Defect,1
+51to60,Male,Typical angina,normal,high,Greater than 120 mg/ml,Normal,high,Yes,mild,Flat,One,Fixed Defect,0
+51to60,Male,Typical angina,elevated,high,Lower than 120 mg/ml,Normal,moderate,Yes,low,Flat,One,Normal,0
+61plus,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,moderate,No,moderate,Flat,Three,Fixed Defect,0
+51to60,Male,Asymptomatic,high,vhigh,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Reversable Defect,0
+41to50,Female,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,normal,high,Lower than 120 mg/ml,Normal,high,No,low,Upsloping,One,Fixed Defect,1
+51to60,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Four,Fixed Defect,1
+61plus,Female,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Non-anginal pain,elevated,vhigh,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Female,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,One,Fixed Defect,1
+41to50,Female,Typical angina,low,high,Lower than 120 mg/ml,Normal,moderate,No,low,Flat,Zero,Fixed Defect,1
+51to60,Female,Typical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Downsloping,Zero,Fixed Defect,1
+51to60,Female,Atypical angina,normal,vhigh,Greater than 120 mg/ml,Normal,high,No,low,Downsloping,Two,Fixed Defect,0
+41to50,Male,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,Three,Reversable Defect,0
+51to60,Female,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Flat,Zero,Reversable Defect,0
+51to60,Female,Non-anginal pain,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,One,Fixed Defect,1
+51to60,Male,Non-anginal pain,elevated,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Typical angina,normal,high,Greater than 120 mg/ml,Normal,high,Yes,low,Flat,Four,Reversable Defect,0
+41to50,Male,Non-anginal pain,low,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,0
+61plus,Male,Non-anginal pain,elevated,borderline,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Reversable Defect,0
+61plus,Female,Typical angina,elevated,borderline,Lower than 120 mg/ml,Normal,moderate,No,low,Flat,Three,Reversable Defect,0
+51to60,Female,Non-anginal pain,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,One,Fixed Defect,1
+29to40,Male,Non-anginal pain,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,moderate,Upsloping,Zero,Fixed Defect,1
+41to50,Female,Non-anginal pain,low,high,Lower than 120 mg/ml,Normal,vhigh,Yes,low,Downsloping,Zero,Fixed Defect,1
+51to60,Female,Typical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Downsloping,Zero,Fixed Defect,1
+51to60,Female,Typical angina,high,high,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Flat,Zero,Fixed Defect,0
+61plus,Male,Typical angina,low,borderline,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,Two,Reversable Defect,0
+41to50,Male,Non-anginal pain,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Atypical angina,low,vhigh,Lower than 120 mg/ml,Normal,high,No,mild,Flat,Zero,Fixed Defect,0
+61plus,Female,Typical angina,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Flat,Zero,Fixed Defect,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,mild,Flat,Two,Reversable Defect,0
+51to60,Male,Typical angina,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,low,Yes,mild,Flat,One,Reversable Defect,0
+51to60,Male,Non-anginal pain,elevated,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Non-anginal pain,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Atypical angina,normal,borderline,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,normal,high,Greater than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Three,Fixed Defect,1
+51to60,Male,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,One,Reversable Defect,0
+51to60,Female,Non-anginal pain,low,vhigh,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,One,Fixed Defect,0
+61plus,Female,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,high,No,moderate,Flat,Three,Reversable Defect,0
+41to50,Female,Atypical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,Zero,Fixed Defect,1
+61plus,Female,Typical angina,high,borderline,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Flat,Two,Reversable Defect,0
+41to50,Female,Atypical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,Zero,Fixed Defect,1
+61plus,Female,Typical angina,elevated,borderline,Lower than 120 mg/ml,Normal,moderate,No,low,Flat,Three,Reversable Defect,0
+61plus,Male,Asymptomatic,elevated,borderline,Greater than 120 mg/ml,Normal,high,No,low,Flat,One,Fixed Defect,1
+41to50,Male,Non-anginal pain,low,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,0
+29to40,Female,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Zero,Fixed Defect,1
+41to50,Male,Typical angina,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,vhigh,Yes,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Non-anginal pain,normal,high,Lower than 120 mg/ml,Normal,high,No,mild,Flat,Three,Reversable Defect,0
+41to50,Male,Non-anginal pain,normal,high,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Two,Fixed Defect,1
+51to60,Male,Asymptomatic,low,normal,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,Zero,Normal,1
+41to50,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Reversable Defect,1
+61plus,Female,Non-anginal pain,low,vhigh,Lower than 120 mg/ml,Normal,high,No,mild,Flat,Zero,Reversable Defect,1
+29to40,Male,Non-anginal pain,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Four,Fixed Defect,1
+41to50,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Typical angina,low,high,Lower than 120 mg/ml,Normal,moderate,Yes,low,Flat,One,Fixed Defect,0
+61plus,Male,Non-anginal pain,elevated,high,Greater than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Flat,Zero,Fixed Defect,1
+61plus,Male,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,moderate,Yes,mild,Flat,Three,Fixed Defect,0
+51to60,Female,Asymptomatic,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Reversable Defect,1
+51to60,Female,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Zero,Fixed Defect,1
+41to50,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,mild,Flat,Zero,Fixed Defect,1
+41to50,Male,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Upsloping,Zero,Reversable Defect,0
+51to60,Male,Non-anginal pain,elevated,normal,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,One,Reversable Defect,1
+51to60,Male,Typical angina,high,vhigh,Greater than 120 mg/ml,Normal,moderate,No,low,Flat,Three,Reversable Defect,0
+51to60,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,Normal,high,No,low,Flat,One,Reversable Defect,0
+29to40,Male,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,high,Yes,moderate,Flat,Three,Reversable Defect,0
+51to60,Female,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Flat,Zero,Reversable Defect,0
+61plus,Female,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,high,No,moderate,Flat,Three,Reversable Defect,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,severe,Flat,Three,Reversable Defect,0
+29to40,Male,Atypical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Typical angina,low,high,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Two,Normal,0
+61plus,Male,Atypical angina,low,vhigh,Lower than 120 mg/ml,Normal,moderate,No,mild,Flat,One,Reversable Defect,0
+41to50,Male,Typical angina,low,normal,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Reversable Defect,0
+61plus,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,moderate,No,moderate,Flat,One,Reversable Defect,0
+51to60,Female,Atypical angina,normal,vhigh,Greater than 120 mg/ml,Normal,high,Yes,low,Downsloping,One,Fixed Defect,1
+61plus,Male,Non-anginal pain,elevated,high,Greater than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Flat,Zero,Fixed Defect,1
+51to60,Female,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,One,Fixed Defect,1
+51to60,Male,Non-anginal pain,elevated,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Flat,Zero,Reversable Defect,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Flat,One,Reversable Defect,0
+51to60,Male,Non-anginal pain,normal,high,Greater than 120 mg/ml,Normal,vhigh,No,moderate,Flat,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,Zero,Reversable Defect,1
+61plus,Male,Non-anginal pain,high,high,Greater than 120 mg/ml,Normal,high,Yes,mild,Flat,Zero,Reversable Defect,0
+51to60,Male,Atypical angina,elevated,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,One,Fixed Defect,0
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Downsloping,Zero,Fixed Defect,1
+41to50,Female,Non-anginal pain,elevated,normal,Lower than 120 mg/ml,Normal,high,Yes,mild,Upsloping,Zero,Fixed Defect,1
+61plus,Female,Typical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,mild,Flat,Zero,Fixed Defect,1
+29to40,Female,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+41to50,Female,Non-anginal pain,elevated,normal,Lower than 120 mg/ml,Normal,high,Yes,mild,Upsloping,Zero,Fixed Defect,1
+41to50,Female,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,Zero,Fixed Defect,1
+41to50,Male,Non-anginal pain,low,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,0
+41to50,Female,Non-anginal pain,low,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,One,Fixed Defect,1
+61plus,Male,Typical angina,low,high,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,moderate,Flat,One,Reversable Defect,0
+41to50,Female,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+51to60,Female,Typical angina,high,vhigh,Greater than 120 mg/ml,Normal,high,Yes,moderate,Upsloping,Two,Reversable Defect,0
+51to60,Female,Typical angina,high,vhigh,Lower than 120 mg/ml,Left ventricular hypertrophy,moderate,Yes,moderate,Flat,Zero,Fixed Defect,0
+51to60,Female,Atypical angina,normal,vhigh,Greater than 120 mg/ml,Normal,high,Yes,low,Downsloping,One,Fixed Defect,1
+41to50,Male,Typical angina,low,normal,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,Zero,Reversable Defect,0
+41to50,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,One,Fixed Defect,0
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,Normal,moderate,Yes,low,Flat,One,Fixed Defect,0
+41to50,Male,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Non-anginal pain,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Three,Reversable Defect,0
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,high,Yes,moderate,Flat,Two,Reversable Defect,0
+41to50,Female,Atypical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,One,Fixed Defect,1
+41to50,Male,Non-anginal pain,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Three,Reversable Defect,0
+61plus,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,One,Reversable Defect,0
+51to60,Male,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Downsloping,One,Reversable Defect,0
+51to60,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Four,Reversable Defect,1
+61plus,Female,Non-anginal pain,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,One,Fixed Defect,1
+61plus,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,One,Reversable Defect,0
+51to60,Male,Non-anginal pain,low,borderline,Lower than 120 mg/ml,Normal,vhigh,No,moderate,Flat,One,Reversable Defect,0
+51to60,Female,Non-anginal pain,normal,high,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Typical angina,elevated,normal,Lower than 120 mg/ml,Normal,high,No,severe,Upsloping,Three,Reversable Defect,0
+61plus,Female,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Asymptomatic,high,high,Lower than 120 mg/ml,Normal,high,No,severe,Upsloping,Zero,Reversable Defect,1
+61plus,Male,Asymptomatic,elevated,borderline,Greater than 120 mg/ml,Normal,high,No,low,Flat,One,Fixed Defect,1
+51to60,Female,Typical angina,elevated,high,Lower than 120 mg/ml,Normal,high,No,moderate,Flat,Two,Reversable Defect,0
+61plus,Female,Non-anginal pain,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Flat,Zero,Fixed Defect,0
+51to60,Female,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Female,Non-anginal pain,low,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Non-anginal pain,normal,normal,Lower than 120 mg/ml,Left ventricular hypertrophy,moderate,No,mild,Flat,Zero,Fixed Defect,1
+41to50,Female,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Zero,Fixed Defect,1
+51to60,Male,Atypical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Typical angina,low,high,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Reversable Defect,0
+61plus,Male,Asymptomatic,high,borderline,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Reversable Defect,1
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,Two,Reversable Defect,0
+41to50,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,high,No,mild,Flat,Zero,Fixed Defect,1
+51to60,Male,Asymptomatic,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Two,Fixed Defect,0
+51to60,Male,Non-anginal pain,normal,high,Lower than 120 mg/ml,Normal,high,No,low,Upsloping,One,Fixed Defect,1
+41to50,Male,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Upsloping,Zero,Reversable Defect,0
+61plus,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,moderate,No,moderate,Flat,Three,Fixed Defect,0
+61plus,Female,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Two,Fixed Defect,1
+51to60,Female,Non-anginal pain,low,vhigh,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Non-anginal pain,low,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,One,Reversable Defect,1
+61plus,Male,Non-anginal pain,normal,high,Lower than 120 mg/ml,Normal,high,No,mild,Flat,Three,Reversable Defect,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,Two,Fixed Defect,0
+41to50,Female,Typical angina,normal,vhigh,Greater than 120 mg/ml,Normal,high,Yes,moderate,Flat,Zero,Reversable Defect,0
+51to60,Male,Non-anginal pain,normal,normal,Greater than 120 mg/ml,Normal,high,No,mild,Upsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,One,Reversable Defect,0
+61plus,Male,Typical angina,normal,high,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,Two,Reversable Defect,0
+51to60,Male,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Downsloping,One,Reversable Defect,0
+41to50,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+29to40,Female,Non-anginal pain,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,low,No,low,Flat,Zero,Fixed Defect,0
+51to60,Female,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Zero,Fixed Defect,1
+61plus,Female,Non-anginal pain,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Female,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,Zero,Fixed Defect,1
+41to50,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,One,Fixed Defect,0
+51to60,Male,Typical angina,normal,normal,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,One,Normal,0
+51to60,Female,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Female,Typical angina,low,high,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,mild,Flat,Zero,Fixed Defect,1
+51to60,Female,Non-anginal pain,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,One,Fixed Defect,1
+41to50,Male,Non-anginal pain,low,borderline,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Upsloping,Zero,Reversable Defect,1
+51to60,Female,Non-anginal pain,normal,vhigh,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,high,Yes,moderate,Flat,Two,Reversable Defect,0
+29to40,Male,Asymptomatic,low,normal,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,One,Fixed Defect,0
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,high,Yes,moderate,Flat,One,Reversable Defect,0
+41to50,Male,Typical angina,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Asymptomatic,elevated,vhigh,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Flat,Zero,Reversable Defect,1
+61plus,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,moderate,No,moderate,Flat,Three,Fixed Defect,0
+61plus,Female,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,high,No,mild,Flat,Zero,Fixed Defect,1
+51to60,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,mild,Flat,One,Reversable Defect,0
+41to50,Male,Atypical angina,low,normal,Greater than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Reversable Defect,1
+41to50,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Atypical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Typical angina,low,normal,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,Zero,Reversable Defect,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Flat,One,Reversable Defect,0
+29to40,Male,Asymptomatic,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,mild,Downsloping,Zero,Reversable Defect,1
+61plus,Male,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Flat,Zero,Reversable Defect,0
+51to60,Male,Typical angina,high,normal,Greater than 120 mg/ml,Normal,low,No,low,Flat,Two,Normal,0
+61plus,Female,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,Zero,Reversable Defect,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,Two,Fixed Defect,0
+61plus,Female,Atypical angina,low,high,Lower than 120 mg/ml,Normal,moderate,Yes,low,Downsloping,One,Fixed Defect,1
+61plus,Female,Typical angina,low,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,mild,Flat,Two,Fixed Defect,0
+61plus,Male,Non-anginal pain,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,moderate,Flat,One,Reversable Defect,0
+61plus,Female,Typical angina,low,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,mild,Flat,Two,Fixed Defect,0
+61plus,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,Normal,high,No,mild,Flat,Two,Normal,0
+61plus,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,One,Reversable Defect,0
+51to60,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Downsloping,Zero,Fixed Defect,1
+29to40,Male,Non-anginal pain,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Four,Fixed Defect,1
+51to60,Male,Atypical angina,low,vhigh,Lower than 120 mg/ml,Normal,high,No,mild,Flat,Zero,Fixed Defect,0
+61plus,Female,Atypical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Two,Fixed Defect,1
+61plus,Female,Non-anginal pain,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,low,No,mild,Flat,One,Reversable Defect,0
+41to50,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,mild,Flat,Two,Reversable Defect,0
+51to60,Female,Non-anginal pain,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Atypical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Two,Fixed Defect,1
+41to50,Male,Non-anginal pain,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Non-anginal pain,low,high,Greater than 120 mg/ml,Normal,moderate,No,low,Downsloping,One,Fixed Defect,1
+61plus,Male,Typical angina,low,borderline,Lower than 120 mg/ml,Normal,high,Yes,low,Downsloping,One,Fixed Defect,0
+41to50,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,mild,Flat,Zero,Normal,0
+61plus,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,Normal,high,No,mild,Flat,Two,Normal,0
+51to60,Female,Typical angina,high,vhigh,Lower than 120 mg/ml,Left ventricular hypertrophy,moderate,Yes,moderate,Flat,Zero,Fixed Defect,0
+41to50,Female,Typical angina,normal,vhigh,Greater than 120 mg/ml,Normal,high,Yes,moderate,Flat,Zero,Reversable Defect,0
+51to60,Female,Typical angina,normal,borderline,Lower than 120 mg/ml,Left ventricular hypertrophy,moderate,Yes,mild,Flat,One,Reversable Defect,0
+51to60,Female,Typical angina,high,borderline,Greater than 120 mg/ml,Normal,high,Yes,moderate,Flat,Two,Normal,0
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,severe,Upsloping,Zero,Reversable Defect,0
+51to60,Female,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Flat,Zero,Reversable Defect,0
+41to50,Female,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Zero,Fixed Defect,1
+41to50,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Flat,Zero,Fixed Defect,1
+41to50,Female,Atypical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Atypical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Typical angina,low,high,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Two,Normal,0
+51to60,Male,Typical angina,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,low,Yes,mild,Flat,One,Reversable Defect,0
+41to50,Male,Typical angina,normal,high,Greater than 120 mg/ml,Normal,high,Yes,low,Downsloping,Two,Reversable Defect,0
+61plus,Female,Typical angina,normal,vhigh,Greater than 120 mg/ml,ST-T wave abnormality,moderate,No,mild,Flat,Three,Fixed Defect,0
+61plus,Male,Asymptomatic,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,moderate,Flat,Two,Fixed Defect,0
+51to60,Male,Asymptomatic,high,high,Lower than 120 mg/ml,Normal,high,No,severe,Upsloping,Zero,Reversable Defect,1
+61plus,Male,Non-anginal pain,normal,high,Lower than 120 mg/ml,Normal,high,No,mild,Flat,Three,Reversable Defect,0
+51to60,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,moderate,Downsloping,Two,Reversable Defect,0
+29to40,Male,Asymptomatic,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,moderate,Flat,Zero,Reversable Defect,0
+61plus,Female,Asymptomatic,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Downsloping,Two,Fixed Defect,1
+61plus,Male,Asymptomatic,normal,vhigh,Greater than 120 mg/ml,Normal,vhigh,No,mild,Flat,One,Fixed Defect,0
+41to50,Male,Asymptomatic,low,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Zero,Reversable Defect,0
+41to50,Male,Atypical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Female,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,Zero,Fixed Defect,1
+61plus,Male,Typical angina,normal,normal,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,One,Fixed Defect,0
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Two,Reversable Defect,0
+51to60,Female,Typical angina,normal,high,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Fixed Defect,1
+51to60,Female,Typical angina,high,high,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Flat,Zero,Fixed Defect,0
+51to60,Female,Non-anginal pain,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Asymptomatic,normal,vhigh,Greater than 120 mg/ml,Normal,vhigh,No,mild,Flat,One,Fixed Defect,0
+51to60,Female,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Zero,Fixed Defect,1
+41to50,Female,Typical angina,normal,high,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,Zero,Fixed Defect,1
+51to60,Female,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,high,Yes,mild,Flat,Two,Reversable Defect,0
+61plus,Male,Typical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,low,Flat,One,Reversable Defect,1
+61plus,Male,Typical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Reversable Defect,1
+41to50,Male,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Typical angina,elevated,high,Lower than 120 mg/ml,Normal,moderate,No,moderate,Flat,Zero,Reversable Defect,0
+41to50,Male,Non-anginal pain,low,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,0
+61plus,Female,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,mild,Flat,Two,Fixed Defect,1
+61plus,Female,Typical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,mild,Flat,Zero,Fixed Defect,1
+41to50,Female,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,Zero,Fixed Defect,1
+61plus,Male,Typical angina,low,high,Lower than 120 mg/ml,ST-T wave abnormality,low,Yes,mild,Flat,Two,Reversable Defect,0
+41to50,Male,Atypical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Asymptomatic,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,moderate,Upsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,vhigh,Greater than 120 mg/ml,Normal,moderate,Yes,mild,Upsloping,Zero,Reversable Defect,0
+41to50,Female,Atypical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Female,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,One,Fixed Defect,0
+29to40,Female,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Zero,Fixed Defect,1
+61plus,Male,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Flat,Zero,Reversable Defect,0
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Typical angina,normal,normal,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,One,Fixed Defect,0
+51to60,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,Left ventricular hypertrophy,high,No,severe,Upsloping,Three,Normal,0
+41to50,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Female,Typical angina,low,high,Lower than 120 mg/ml,Normal,moderate,No,low,Flat,Zero,Fixed Defect,1
+61plus,Female,Asymptomatic,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,moderate,Upsloping,Zero,Fixed Defect,1
+61plus,Female,Non-anginal pain,normal,vhigh,Greater than 120 mg/ml,Normal,high,No,low,Downsloping,One,Fixed Defect,1
+29to40,Male,Atypical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Atypical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Reversable Defect,0
+29to40,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,missing,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Atypical angina,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,low,Flat,Three,Normal,0
+61plus,Female,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,0
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Two,Reversable Defect,0
+61plus,Male,Non-anginal pain,low,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,One,Reversable Defect,1
+51to60,Male,Non-anginal pain,low,high,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Reversable Defect,1
+61plus,Male,Typical angina,normal,vhigh,Greater than 120 mg/ml,Normal,high,Yes,mild,Downsloping,Three,Reversable Defect,0
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,One,Reversable Defect,0
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Downsloping,One,Reversable Defect,0
+61plus,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,high,No,mild,Flat,One,Reversable Defect,0
+41to50,Female,Non-anginal pain,low,high,Lower than 120 mg/ml,Normal,vhigh,Yes,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Non-anginal pain,high,high,Greater than 120 mg/ml,Normal,high,Yes,mild,Flat,Zero,Reversable Defect,0
+41to50,Male,Atypical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,high,vhigh,Lower than 120 mg/ml,Normal,high,Yes,moderate,Upsloping,Zero,Reversable Defect,0
+51to60,Male,Typical angina,high,normal,Greater than 120 mg/ml,Normal,low,No,low,Flat,Two,Normal,0
+41to50,Male,Typical angina,low,normal,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,Zero,Reversable Defect,0
+51to60,Male,Non-anginal pain,normal,normal,Lower than 120 mg/ml,Normal,high,No,moderate,Flat,Zero,Fixed Defect,0
+61plus,Female,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,high,No,moderate,Flat,Three,Reversable Defect,0
+51to60,Male,Typical angina,normal,borderline,Greater than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Flat,Zero,No,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Two,Reversable Defect,0
+51to60,Female,Typical angina,high,vhigh,Greater than 120 mg/ml,Normal,high,Yes,moderate,Upsloping,Two,Reversable Defect,0
+51to60,Female,Non-anginal pain,normal,vhigh,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,low,borderline,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,Zero,Reversable Defect,1
+51to60,Female,Atypical angina,normal,high,Lower than 120 mg/ml,Normal,vhigh,No,mild,Flat,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,borderline,Greater than 120 mg/ml,Normal,high,Yes,moderate,Upsloping,Zero,Reversable Defect,0
+61plus,Female,Atypical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Two,Fixed Defect,1
+29to40,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Zero,Reversable Defect,0
+29to40,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,high,Yes,low,Downsloping,Zero,Reversable Defect,0
+41to50,Female,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Zero,Fixed Defect,1
+61plus,Male,Non-anginal pain,elevated,borderline,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Reversable Defect,0
+61plus,Male,Typical angina,low,borderline,Lower than 120 mg/ml,Normal,high,Yes,low,Downsloping,One,Fixed Defect,0
+29to40,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,high,Yes,low,Downsloping,Zero,Reversable Defect,0
+41to50,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,mild,Flat,Zero,Fixed Defect,1
+29to40,Male,Typical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,mild,Flat,Zero,Reversable Defect,0
+61plus,Female,Atypical angina,elevated,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Two,Fixed Defect,1
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,mild,Flat,Zero,Normal,1
+51to60,Male,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Downsloping,One,Reversable Defect,1
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,high,Yes,moderate,Flat,Three,Reversable Defect,0
+51to60,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,Normal,high,No,low,Flat,One,Reversable Defect,0
+51to60,Female,Atypical angina,normal,vhigh,Lower than 120 mg/ml,Normal,high,No,mild,Flat,Zero,Fixed Defect,1
+51to60,Female,Non-anginal pain,low,normal,Greater than 120 mg/ml,ST-T wave abnormality,low,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Asymptomatic,low,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Zero,Reversable Defect,0
+51to60,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Reversable Defect,1
+29to40,Male,Typical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,mild,Flat,Zero,Reversable Defect,0
+41to50,Female,Atypical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Zero,Fixed Defect,1
+61plus,Female,Asymptomatic,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,moderate,Upsloping,Zero,Fixed Defect,1
+51to60,Male,Asymptomatic,normal,borderline,Lower than 120 mg/ml,Normal,moderate,Yes,mild,Downsloping,One,Fixed Defect,1
+61plus,Male,Atypical angina,elevated,high,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Female,Typical angina,normal,borderline,Lower than 120 mg/ml,Left ventricular hypertrophy,moderate,Yes,mild,Flat,One,Reversable Defect,0
+51to60,Male,Non-anginal pain,normal,high,Greater than 120 mg/ml,Normal,high,Yes,low,Flat,One,Normal,0
+51to60,Female,Atypical angina,normal,high,Lower than 120 mg/ml,Normal,vhigh,No,mild,Flat,Zero,Fixed Defect,1
+51to60,Male,Typical angina,low,borderline,Greater than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Three,Reversable Defect,1
+61plus,Male,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,0
+41to50,Male,Typical angina,low,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Non-anginal pain,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,One,Fixed Defect,1
+61plus,Female,Non-anginal pain,low,borderline,Lower than 120 mg/ml,Normal,moderate,No,mild,Flat,Zero,Fixed Defect,1
+61plus,Female,Atypical angina,low,high,Lower than 120 mg/ml,Normal,moderate,Yes,low,Downsloping,One,Fixed Defect,1
+51to60,Female,Typical angina,elevated,high,Lower than 120 mg/ml,Normal,high,No,moderate,Flat,Two,Reversable Defect,0
+41to50,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,Zero,Reversable Defect,0
+51to60,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Reversable Defect,1
+41to50,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,mild,Flat,Two,Reversable Defect,0
+51to60,Female,Atypical angina,normal,high,Lower than 120 mg/ml,Normal,vhigh,No,mild,Flat,Zero,Fixed Defect,1
+41to50,Male,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,One,Fixed Defect,0
+51to60,Male,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Downsloping,One,Reversable Defect,1
+41to50,Female,Non-anginal pain,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,borderline,Greater than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Flat,Zero,No,0
+41to50,Male,Non-anginal pain,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,Normal,high,Yes,mild,Flat,One,Reversable Defect,0
+61plus,Male,Typical angina,low,borderline,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,Two,Reversable Defect,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Two,Reversable Defect,0
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Downsloping,One,Reversable Defect,0
+41to50,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Female,Non-anginal pain,low,high,Lower than 120 mg/ml,Normal,vhigh,Yes,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Typical angina,normal,vhigh,Greater than 120 mg/ml,Normal,high,Yes,mild,Downsloping,Three,Reversable Defect,0
+51to60,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Four,Reversable Defect,1
+51to60,Female,Non-anginal pain,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,One,Fixed Defect,1
+51to60,Male,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Flat,Zero,Fixed Defect,1
+61plus,Male,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,0
+51to60,Male,Typical angina,low,borderline,Greater than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Downsloping,Two,Reversable Defect,0
+41to50,Male,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Four,Reversable Defect,1
+51to60,Male,Atypical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Non-anginal pain,elevated,vhigh,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Atypical angina,normal,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,Zero,Fixed Defect,1
+61plus,Male,Typical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Reversable Defect,1
+51to60,Female,Non-anginal pain,normal,high,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Non-anginal pain,normal,high,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Two,Fixed Defect,1
+61plus,Male,Typical angina,low,high,Lower than 120 mg/ml,Normal,low,Yes,moderate,Upsloping,One,Fixed Defect,0
+61plus,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,Normal,high,No,moderate,Downsloping,Zero,Normal,1
+41to50,Female,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,0
+51to60,Male,Typical angina,elevated,high,Lower than 120 mg/ml,Normal,moderate,Yes,low,Flat,One,Normal,0
+41to50,Female,Typical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Reversable Defect,1
+51to60,Female,Asymptomatic,elevated,vhigh,Greater than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Typical angina,normal,normal,Lower than 120 mg/ml,Normal,high,Yes,moderate,Downsloping,Two,Reversable Defect,0
+51to60,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,moderate,Flat,One,Reversable Defect,0
+51to60,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,moderate,Flat,One,Reversable Defect,0
+61plus,Male,Typical angina,elevated,normal,Greater than 120 mg/ml,ST-T wave abnormality,high,No,moderate,Flat,Two,Reversable Defect,0
+41to50,Male,Atypical angina,low,normal,Greater than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Reversable Defect,1
+61plus,Female,Non-anginal pain,low,high,Greater than 120 mg/ml,Normal,moderate,No,low,Downsloping,One,Fixed Defect,1
+41to50,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Zero,Normal,1
+41to50,Female,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,Zero,Fixed Defect,1
+61plus,Female,Typical angina,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Flat,Zero,Fixed Defect,0
+61plus,Female,Typical angina,elevated,borderline,Lower than 120 mg/ml,Normal,moderate,No,low,Flat,Three,Reversable Defect,0
+41to50,Female,Non-anginal pain,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Flat,Zero,Fixed Defect,1
+61plus,Female,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,Zero,Reversable Defect,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,low,Yes,mild,Flat,Two,Reversable Defect,0
+51to60,Male,Asymptomatic,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Two,Fixed Defect,0
+29to40,Female,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Typical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,moderate,Upsloping,Zero,Normal,0
+51to60,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,mild,Flat,One,Reversable Defect,0
+61plus,Female,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,mild,Flat,Two,Fixed Defect,1
+51to60,Male,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Upsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,elevated,borderline,Lower than 120 mg/ml,Normal,vhigh,No,mild,Downsloping,Zero,Reversable Defect,1
+51to60,Male,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,One,Reversable Defect,0
+61plus,Male,Typical angina,normal,high,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,Two,Reversable Defect,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,severe,Flat,Three,Reversable Defect,0
+61plus,Female,Typical angina,normal,vhigh,Greater than 120 mg/ml,ST-T wave abnormality,moderate,No,mild,Flat,Three,Fixed Defect,0
+61plus,Male,Atypical angina,low,vhigh,Lower than 120 mg/ml,Normal,moderate,No,mild,Flat,One,Reversable Defect,0
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,moderate,Flat,One,Reversable Defect,0
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,moderate,Flat,One,Reversable Defect,0
+61plus,Male,Typical angina,elevated,normal,Greater than 120 mg/ml,ST-T wave abnormality,high,No,moderate,Flat,Two,Reversable Defect,0
+51to60,Female,Non-anginal pain,low,normal,Greater than 120 mg/ml,ST-T wave abnormality,low,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Asymptomatic,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,moderate,Flat,Two,Fixed Defect,0
+61plus,Male,Atypical angina,normal,borderline,Greater than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Zero,Normal,1
+61plus,Female,Typical angina,elevated,borderline,Lower than 120 mg/ml,Normal,moderate,No,low,Flat,Three,Reversable Defect,0
+51to60,Male,Asymptomatic,high,vhigh,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Reversable Defect,0
+41to50,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Flat,Zero,Fixed Defect,1
+61plus,Male,Typical angina,low,borderline,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,Two,Reversable Defect,0
+61plus,Male,Asymptomatic,elevated,borderline,Greater than 120 mg/ml,Normal,high,No,moderate,Upsloping,Zero,Normal,1
+61plus,Female,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Flat,Zero,Fixed Defect,0
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,One,Fixed Defect,0
+51to60,Female,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Zero,Fixed Defect,1
+51to60,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,Normal,moderate,Yes,low,Downsloping,Zero,Reversable Defect,1
+51to60,Male,Typical angina,elevated,high,Lower than 120 mg/ml,Normal,moderate,Yes,low,Flat,One,Normal,0
+41to50,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Downsloping,One,Reversable Defect,1
+51to60,Female,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Zero,Fixed Defect,1
+29to40,Male,Typical angina,low,normal,Lower than 120 mg/ml,Normal,moderate,Yes,mild,Flat,Zero,Reversable Defect,0
+51to60,Male,Atypical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Reversable Defect,0
+61plus,Female,Typical angina,normal,high,Lower than 120 mg/ml,Normal,high,No,moderate,Upsloping,Two,Fixed Defect,0
+51to60,Male,Typical angina,normal,borderline,Greater than 120 mg/ml,Normal,high,Yes,moderate,Upsloping,Zero,Reversable Defect,0
+61plus,Male,Atypical angina,normal,borderline,Greater than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,low,borderline,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,Zero,Reversable Defect,1
+61plus,Male,Atypical angina,elevated,high,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Typical angina,low,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Asymptomatic,elevated,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Two,Fixed Defect,1
+51to60,Female,Typical angina,high,borderline,Greater than 120 mg/ml,Normal,high,Yes,moderate,Flat,Two,Normal,0
+61plus,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,high,Yes,mild,Downsloping,One,Reversable Defect,0
+61plus,Female,Typical angina,normal,high,Lower than 120 mg/ml,Normal,high,No,moderate,Upsloping,Two,Fixed Defect,0
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Downsloping,One,Reversable Defect,0
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Typical angina,normal,normal,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,One,Fixed Defect,0
+61plus,Female,Non-anginal pain,normal,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Non-anginal pain,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,Normal,high,No,low,Flat,One,Reversable Defect,0
+41to50,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,One,Reversable Defect,0
+51to60,Male,Non-anginal pain,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Flat,Zero,Fixed Defect,1
+51to60,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Four,Reversable Defect,1
+61plus,Male,Non-anginal pain,low,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,One,Reversable Defect,1
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,severe,Upsloping,Zero,Reversable Defect,0
+41to50,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,mild,Flat,Zero,Normal,0
+41to50,Male,Non-anginal pain,low,normal,Lower than 120 mg/ml,Normal,moderate,No,low,Downsloping,Three,Fixed Defect,0
+51to60,Female,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,high,normal,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Reversable Defect,1
+51to60,Male,Asymptomatic,normal,borderline,Lower than 120 mg/ml,Normal,moderate,Yes,mild,Downsloping,One,Fixed Defect,1
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,vhigh,Yes,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Typical angina,elevated,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,moderate,Upsloping,Zero,Reversable Defect,0
+29to40,Female,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Non-anginal pain,low,borderline,Lower than 120 mg/ml,Normal,vhigh,No,moderate,Flat,One,Reversable Defect,0
+51to60,Male,Asymptomatic,elevated,high,Lower than 120 mg/ml,Normal,moderate,No,low,Downsloping,Zero,Fixed Defect,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,mild,Flat,Two,Reversable Defect,0
+51to60,Male,Typical angina,normal,normal,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,One,Normal,0
+29to40,Female,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Typical angina,normal,normal,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,One,Fixed Defect,0
+51to60,Female,Asymptomatic,elevated,vhigh,Greater than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Downsloping,One,Reversable Defect,0
+51to60,Male,Atypical angina,low,vhigh,Lower than 120 mg/ml,Normal,high,No,mild,Flat,Zero,Fixed Defect,0
+29to40,Male,Non-anginal pain,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,moderate,Upsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Downsloping,One,Reversable Defect,0
+61plus,Male,Typical angina,low,borderline,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,Two,Reversable Defect,0
+61plus,Male,Asymptomatic,normal,vhigh,Greater than 120 mg/ml,Normal,vhigh,No,mild,Flat,One,Fixed Defect,0
+41to50,Male,Atypical angina,low,normal,Greater than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Reversable Defect,1
+61plus,Female,Non-anginal pain,low,borderline,Lower than 120 mg/ml,Normal,moderate,No,mild,Flat,Zero,Fixed Defect,1
+41to50,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Flat,Zero,Fixed Defect,1
+61plus,Female,Non-anginal pain,low,borderline,Lower than 120 mg/ml,Normal,moderate,No,mild,Flat,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,mild,Downsloping,Zero,Reversable Defect,0
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,One,Fixed Defect,0
+61plus,Male,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,0
+51to60,Male,Asymptomatic,high,vhigh,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Reversable Defect,0
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Two,Reversable Defect,0
+51to60,Male,Asymptomatic,elevated,high,Lower than 120 mg/ml,Normal,moderate,No,low,Downsloping,Zero,Fixed Defect,0
+51to60,Female,Asymptomatic,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Non-anginal pain,low,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Upsloping,Zero,Fixed Defect,1
+51to60,Male,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Female,Non-anginal pain,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,1
+29to40,Male,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Asymptomatic,high,borderline,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Reversable Defect,1
+51to60,Male,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Zero,Normal,1
+51to60,Male,Asymptomatic,elevated,high,Lower than 120 mg/ml,Normal,moderate,No,low,Downsloping,Zero,Fixed Defect,0
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,high,Yes,moderate,Flat,Two,Reversable Defect,0
+61plus,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,high,Yes,mild,Downsloping,One,Reversable Defect,0
+41to50,Female,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,Zero,Fixed Defect,1
+51to60,Male,Typical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,mild,Flat,One,Reversable Defect,0
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Downsloping,Zero,Reversable Defect,1
+51to60,Male,Atypical angina,elevated,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,One,Fixed Defect,0
+51to60,Male,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,mild,Flat,One,Reversable Defect,0
+41to50,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,Zero,Reversable Defect,0
+61plus,Male,Typical angina,elevated,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,moderate,Upsloping,Zero,Reversable Defect,0
+51to60,Male,Typical angina,high,vhigh,Greater than 120 mg/ml,Normal,moderate,No,low,Flat,Three,Reversable Defect,0
+61plus,Male,Typical angina,low,high,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,moderate,Flat,One,Reversable Defect,0
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,mild,Flat,Zero,Normal,1
+51to60,Female,Typical angina,elevated,high,Lower than 120 mg/ml,Normal,high,No,moderate,Flat,Two,Reversable Defect,0
+61plus,Female,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,high,No,moderate,Flat,Three,Reversable Defect,0
+51to60,Female,Typical angina,normal,borderline,Lower than 120 mg/ml,Left ventricular hypertrophy,moderate,Yes,mild,Flat,One,Reversable Defect,0
+61plus,Female,Typical angina,high,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,moderate,Flat,One,Reversable Defect,0
+51to60,Male,Typical angina,normal,borderline,Greater than 120 mg/ml,ST-T wave abnormality,high,Yes,low,Flat,Zero,No,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,mild,Downsloping,Zero,Reversable Defect,0
+61plus,Female,Non-anginal pain,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,low,No,mild,Flat,One,Reversable Defect,0
+51to60,Male,Asymptomatic,high,high,Lower than 120 mg/ml,Normal,high,No,severe,Upsloping,Zero,Reversable Defect,1
+51to60,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,One,Fixed Defect,1
+41to50,Female,Typical angina,low,high,Lower than 120 mg/ml,Normal,moderate,No,low,Flat,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,Zero,Reversable Defect,1
+61plus,Male,Asymptomatic,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,moderate,Flat,Two,Fixed Defect,0
+41to50,Female,Typical angina,low,high,Lower than 120 mg/ml,Normal,moderate,No,low,Flat,Zero,Fixed Defect,1
+61plus,Female,Typical angina,normal,high,Lower than 120 mg/ml,Normal,high,No,moderate,Upsloping,Two,Fixed Defect,0
+51to60,Male,Non-anginal pain,normal,borderline,Greater than 120 mg/ml,ST-T wave abnormality,high,No,moderate,Flat,One,Normal,0
+51to60,Male,Atypical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Typical angina,low,high,Lower than 120 mg/ml,Normal,low,Yes,moderate,Upsloping,One,Fixed Defect,0
+41to50,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Female,Atypical angina,low,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Typical angina,low,high,Lower than 120 mg/ml,ST-T wave abnormality,low,Yes,mild,Flat,Two,Reversable Defect,0
+41to50,Male,Typical angina,elevated,normal,Lower than 120 mg/ml,Normal,moderate,Yes,low,Flat,Zero,Reversable Defect,0
+41to50,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,One,Reversable Defect,0
+51to60,Female,Atypical angina,normal,vhigh,Greater than 120 mg/ml,Normal,high,No,low,Downsloping,Two,Fixed Defect,0
+29to40,Male,Typical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,mild,Flat,Zero,Reversable Defect,0
+41to50,Male,Typical angina,low,borderline,Lower than 120 mg/ml,Normal,high,Yes,moderate,Flat,Zero,Fixed Defect,1
+61plus,Male,Typical angina,low,borderline,Lower than 120 mg/ml,Normal,high,Yes,low,Downsloping,One,Fixed Defect,0
+41to50,Male,Typical angina,low,high,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Reversable Defect,0
+61plus,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,moderate,No,moderate,Flat,One,Reversable Defect,0
+41to50,Male,Non-anginal pain,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Asymptomatic,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Two,Fixed Defect,0
+29to40,Male,Asymptomatic,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,moderate,Flat,Zero,Reversable Defect,0
+29to40,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Zero,Reversable Defect,0
+51to60,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,mild,Flat,One,Reversable Defect,0
+41to50,Male,Atypical angina,low,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Reversable Defect,1
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Downsloping,Zero,Fixed Defect,1
+61plus,Female,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,0
+51to60,Male,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,mild,Flat,One,Reversable Defect,0
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,Normal,moderate,Yes,low,Flat,One,Fixed Defect,0
+41to50,Male,Non-anginal pain,low,borderline,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Upsloping,Zero,Reversable Defect,1
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,One,Reversable Defect,0
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,high,Yes,moderate,Flat,Two,Reversable Defect,0
+61plus,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,moderate,No,moderate,Flat,One,Reversable Defect,0
+29to40,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Reversable Defect,0
+51to60,Female,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,Normal,high,No,mild,Downsloping,One,Fixed Defect,1
+29to40,Male,Asymptomatic,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,moderate,Flat,Zero,Reversable Defect,0
+41to50,Male,Non-anginal pain,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Upsloping,Zero,Fixed Defect,1
+41to50,Male,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,mild,Downsloping,One,Fixed Defect,1
+61plus,Male,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,0
+51to60,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,Normal,moderate,Yes,low,Downsloping,Zero,Reversable Defect,1
+41to50,Female,Atypical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,Zero,Fixed Defect,1
+51to60,Female,Typical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,low,Flat,Zero,Reversable Defect,0
+51to60,Female,Non-anginal pain,normal,normal,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,Zero,Fixed Defect,1
+61plus,Female,Asymptomatic,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Downsloping,Two,Fixed Defect,1
+61plus,Male,Typical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Reversable Defect,1
+61plus,Female,Typical angina,high,borderline,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Flat,Two,Reversable Defect,0
+51to60,Male,Asymptomatic,low,normal,Lower than 120 mg/ml,Normal,vhigh,No,mild,Flat,Zero,Reversable Defect,1
+61plus,Female,Non-anginal pain,elevated,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,One,Fixed Defect,1
+51to60,Female,Non-anginal pain,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,One,Fixed Defect,1
+61plus,Male,Typical angina,elevated,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,moderate,Upsloping,Zero,Reversable Defect,0
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Downsloping,Zero,Reversable Defect,1
+61plus,Male,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,moderate,Yes,mild,Flat,Three,Fixed Defect,0
+61plus,Female,Non-anginal pain,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,low,No,mild,Flat,One,Reversable Defect,0
+51to60,Female,Non-anginal pain,normal,vhigh,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Female,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,Zero,Fixed Defect,1
+51to60,Female,Typical angina,normal,high,Lower than 120 mg/ml,Normal,high,No,low,Flat,Zero,Fixed Defect,1
+61plus,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Three,Reversable Defect,1
+41to50,Female,Typical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,One,Reversable Defect,0
+61plus,Female,Non-anginal pain,normal,vhigh,Greater than 120 mg/ml,Normal,high,No,low,Downsloping,One,Fixed Defect,1
+61plus,Female,Asymptomatic,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Downsloping,Two,Fixed Defect,1
+51to60,Female,Non-anginal pain,normal,normal,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,Zero,Fixed Defect,1
+51to60,Female,Typical angina,low,high,Lower than 120 mg/ml,Normal,moderate,No,low,Flat,Zero,Fixed Defect,1
+51to60,Male,Typical angina,low,borderline,Greater than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Three,Reversable Defect,1
+51to60,Female,Typical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,low,Flat,Zero,Reversable Defect,0
+41to50,Female,Non-anginal pain,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,Zero,Fixed Defect,1
+61plus,Female,Non-anginal pain,normal,normal,Lower than 120 mg/ml,Left ventricular hypertrophy,moderate,No,mild,Flat,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,moderate,Yes,moderate,Flat,Two,Reversable Defect,0
+51to60,Female,Non-anginal pain,low,normal,Greater than 120 mg/ml,ST-T wave abnormality,low,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,borderline,Greater than 120 mg/ml,Normal,high,Yes,moderate,Upsloping,Zero,Reversable Defect,0
+51to60,Male,Atypical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+29to40,Male,Non-anginal pain,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Four,Fixed Defect,1
+51to60,Male,Non-anginal pain,high,normal,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Reversable Defect,1
+51to60,Male,Asymptomatic,low,normal,Lower than 120 mg/ml,Normal,vhigh,No,low,Flat,Zero,Normal,1
+51to60,Male,Non-anginal pain,normal,high,Greater than 120 mg/ml,Normal,vhigh,No,moderate,Flat,Zero,Fixed Defect,1
+41to50,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Reversable Defect,1
+29to40,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Zero,Reversable Defect,0
+61plus,Female,Typical angina,low,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,mild,Flat,Two,Fixed Defect,0
+51to60,Male,Atypical angina,normal,borderline,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Typical angina,low,normal,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,One,Fixed Defect,0
+41to50,Male,Typical angina,elevated,vhigh,Lower than 120 mg/ml,Normal,high,Yes,low,Flat,Three,Reversable Defect,0
+51to60,Male,Typical angina,normal,normal,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Flat,Zero,Normal,1
+29to40,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Zero,Reversable Defect,0
+61plus,Female,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Two,Fixed Defect,1
+61plus,Male,Typical angina,normal,high,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,low,Flat,One,Reversable Defect,1
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,Zero,Reversable Defect,1
+61plus,Male,Non-anginal pain,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,mild,Flat,Three,Reversable Defect,1
+51to60,Female,Typical angina,high,vhigh,Lower than 120 mg/ml,Left ventricular hypertrophy,moderate,Yes,moderate,Flat,Zero,Fixed Defect,0
+51to60,Male,Atypical angina,elevated,borderline,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,One,Fixed Defect,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,mild,Flat,Two,Reversable Defect,0
+61plus,Female,Atypical angina,elevated,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Two,Fixed Defect,1
+51to60,Male,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,low,borderline,Greater than 120 mg/ml,ST-T wave abnormality,high,Yes,mild,Downsloping,Two,Reversable Defect,0
+41to50,Female,Typical angina,low,high,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Typical angina,normal,high,Greater than 120 mg/ml,Normal,high,Yes,low,Flat,Four,Reversable Defect,0
+51to60,Male,Typical angina,low,borderline,Lower than 120 mg/ml,Normal,high,Yes,mild,Flat,One,Reversable Defect,0
+41to50,Male,Atypical angina,low,high,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Reversable Defect,1
+51to60,Female,Typical angina,normal,vhigh,Lower than 120 mg/ml,Normal,high,Yes,mild,Flat,Two,Reversable Defect,0
+51to60,Male,Typical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,mild,Flat,One,Reversable Defect,0
+41to50,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,moderate,Yes,mild,Flat,Zero,Normal,0
+61plus,Male,Typical angina,normal,high,Greater than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,Two,Reversable Defect,0
+61plus,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,Normal,high,No,mild,Flat,Two,Normal,0
+41to50,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+61plus,Male,Typical angina,low,borderline,Lower than 120 mg/ml,Normal,high,Yes,low,Downsloping,One,Fixed Defect,0
+51to60,Male,Typical angina,low,borderline,Greater than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Three,Reversable Defect,1
+51to60,Female,Non-anginal pain,normal,vhigh,Lower than 120 mg/ml,Normal,high,No,mild,Downsloping,One,Fixed Defect,1
+51to60,Female,Typical angina,normal,borderline,Lower than 120 mg/ml,Left ventricular hypertrophy,moderate,Yes,mild,Flat,One,Reversable Defect,0
+51to60,Male,Non-anginal pain,normal,borderline,Greater than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Asymptomatic,low,normal,Lower than 120 mg/ml,Normal,vhigh,No,mild,Flat,Zero,Reversable Defect,1
+41to50,Male,Atypical angina,low,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+29to40,Male,Typical angina,elevated,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Downsloping,Zero,Reversable Defect,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,mild,Downsloping,Zero,Reversable Defect,0
+41to50,Male,Atypical angina,normal,vhigh,Lower than 120 mg/ml,Normal,vhigh,No,low,Downsloping,Zero,Fixed Defect,1
+41to50,Male,Atypical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Upsloping,Zero,Reversable Defect,0
+51to60,Male,Typical angina,low,vhigh,Lower than 120 mg/ml,Left ventricular hypertrophy,high,No,severe,Upsloping,Three,Normal,0
+41to50,Female,Non-anginal pain,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,No,low,Flat,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,borderline,Lower than 120 mg/ml,Normal,high,Yes,moderate,Flat,Three,Reversable Defect,0
+61plus,Male,Asymptomatic,normal,vhigh,Greater than 120 mg/ml,Normal,vhigh,No,mild,Flat,One,Fixed Defect,0
+51to60,Male,Typical angina,normal,vhigh,Lower than 120 mg/ml,ST-T wave abnormality,low,Yes,mild,Flat,Two,Reversable Defect,0
+41to50,Male,Typical angina,low,normal,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Reversable Defect,0
+41to50,Male,Typical angina,low,borderline,Lower than 120 mg/ml,ST-T wave abnormality,high,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Atypical angina,normal,borderline,Lower than 120 mg/ml,ST-T wave abnormality,vhigh,Yes,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,normal,high,Lower than 120 mg/ml,Normal,high,Yes,moderate,Flat,One,Reversable Defect,0
+41to50,Male,Typical angina,low,high,Lower than 120 mg/ml,Normal,moderate,Yes,low,Flat,One,Fixed Defect,0
+41to50,Female,Typical angina,low,high,Lower than 120 mg/ml,Normal,high,No,low,Downsloping,Zero,Fixed Defect,1
+51to60,Male,Typical angina,low,normal,Lower than 120 mg/ml,ST-T wave abnormality,moderate,No,mild,Flat,One,Reversable Defect,0

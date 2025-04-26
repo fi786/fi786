@@ -1,0 +1,20 @@
+ID,Variable 1,Dependency,Variable 2
+1,age,-,resting_blood_pressure
+2,age,-,cholestoral
+3,sex,-,vessels_colored_by_flourosopy
+4,chest_pain_type,-,exercise_induced_angina
+5,chest_pain_type,-,target
+6,resting_blood_pressure,->,fasting_blood_sugar
+7,max_heart_rate,->,rest_ecg
+8,exercise_induced_angina,->,max_heart_rate
+9,exercise_induced_angina,-,target
+10,oldpeak,-,slope
+11,slope,->,max_heart_rate
+12,vessels_colored_by_flourosopy,-,age
+13,thalassemia,-,sex
+14,target,-,sex
+15,target,->,fasting_blood_sugar
+16,target,-,oldpeak
+17,target,-,slope
+18,target,-,vessels_colored_by_flourosopy
+19,target,-,thalassemia
